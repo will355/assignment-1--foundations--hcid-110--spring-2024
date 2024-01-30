@@ -49,7 +49,7 @@ This assignment requires that you create a basic, three-page web site about you 
 
 ## ❖・Due・❖
 
-Thursday, 15 February 2024, at 11:00 AM. **Aside from a *documented* emergency, NO late assignments will be accepted.**
+Wednesday, 14 February 2024, at 5:30 PM. **Aside from a *documented* emergency, NO late assignments will be accepted.**
 
 ---
 
