@@ -49,7 +49,7 @@ This assignment requires that you create a basic, three-page web site about you 
 
 ## ❖・Due・❖
 
-Thursday, 15 February 2024, at 11:00 AM.
+Thursday, 15 February 2024, at 11:00 AM. **Aside from a *documented* emergency, NO late assignments will be accepted.**
 
 ---
 
@@ -57,4 +57,4 @@ Thursday, 15 February 2024, at 11:00 AM.
 
 You will need to issue a pull request back into the original repo, the one from which your fork was created for this project. See the **Issuing Pull Requests** section of [this site](http://code-warrior.github.io/tutorials/git/github/index.html) for help on how to submit your assignment.
 
-**Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
+**Note**: This assignment may *only* be submitted via GitHub. **NO other form of submission will be accepted**.
